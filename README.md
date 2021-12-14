@@ -75,3 +75,5 @@ Go to the terminal and execute the command “mvn test -Dtest=WordPressLogin” 
 
 We have used a dummy web application and excel test data in this template but you can change it accordingly.
 
+For a better understanding please refer to this blog:-
+https://blog.knoldus.com/wp-admin/post.php?post=113997&action=edit&calypsoify=1
